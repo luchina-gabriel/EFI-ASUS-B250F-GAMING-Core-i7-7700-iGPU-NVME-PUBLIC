@@ -1,5 +1,7 @@
 # A Perfect Hackintosh - Asus B250F, Core i7 7700, iGPU HD630 and macOS Sonoma
 
+![About This Mac](https://github.com/luchina-gabriel/EFI-ASUS-B250F-GAMING-Core-i7-7700-iGPU-NVME-PUBLIC/assets/23700365/4169101b-fffc-407f-bbdf-a278a34c1a2f)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.0)
